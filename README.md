@@ -18,7 +18,7 @@
   <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
 
-Atualmente estudando AWS, Apache e PowerBi
+Atualmente estudando AWS, Apache e PowerB
 
 ##
 <div> 
